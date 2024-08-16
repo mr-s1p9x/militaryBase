@@ -1,0 +1,11 @@
+# ninja log v6
+5	50	7455356534355145	CMakeFiles/militaryBase.dir/Vehicle.cpp.obj	76d3b05de42c362e
+6	120	7455356534365124	CMakeFiles/militaryBase.dir/Bus.cpp.obj	3ba28056fbc65c65
+8	121	7455356534385072	CMakeFiles/militaryBase.dir/Truck.cpp.obj	192d42dc7f569aa8
+3	274	7455356534345191	CMakeFiles/militaryBase.dir/Base.cpp.obj	acd08a8ca5abc8dc
+1	275	7455356534315249	CMakeFiles/militaryBase.dir/main.cpp.obj	1250c767a538ebf7
+275	339	7455356537061144	militaryBase.exe	a8d1ff26c6b68d64
+4	264	7455359549513722	CMakeFiles/militaryBase.dir/main.cpp.obj	1250c767a538ebf7
+265	321	7455359552122327	militaryBase.exe	a8d1ff26c6b68d64
+4	256	7455359998416306	CMakeFiles/militaryBase.dir/main.cpp.obj	1250c767a538ebf7
+256	314	7455360000939656	militaryBase.exe	a8d1ff26c6b68d64
